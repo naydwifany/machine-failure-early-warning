@@ -1,0 +1,13 @@
+# Versi yang dipakai saat analisis ini dijalankan dan diverifikasi.
+# Pin eksak dipakai agar orang lain memperoleh angka yang sama persis.
+#
+# Jika pemasangan gagal karena versi Python Anda berbeda, longgarkan tanda ==
+# menjadi >= dan catat versi yang akhirnya terpasang di README.
+
+pandas>=3.0.5
+numpy>=2.5.3
+scikit-learn>=1.9.1
+matplotlib>=3.11.2
+
+# Untuk menjalankan notebook
+jupyterlab>=4.3.5
